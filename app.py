@@ -3,9 +3,9 @@ import os
 import pandas as pd
 import numpy as np
 import time
-from modules.utils import init_db, save_fingerprint, get_alerts, get_all_fingerprints
-from modules.fingerprinter import generate_video_fingerprint
-from modules.immune_system import process_suspected_video
+from utils import init_db, save_fingerprint, get_alerts, get_all_fingerprints
+from fingerprinter import generate_video_fingerprint
+from immune_system import process_suspected_video
 
 # Initialize DB
 init_db()
