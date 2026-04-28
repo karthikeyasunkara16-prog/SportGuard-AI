@@ -1,0 +1,8 @@
+opencv-python
+streamlit
+imagehash
+numpy
+ultralytics
+pandas
+altair
+pillow
