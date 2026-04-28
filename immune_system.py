@@ -1,5 +1,5 @@
-from .utils import log_piracy_alert, get_all_fingerprints
-from .surveillance import scan_video_for_piracy
+from utils import log_piracy_alert, get_all_fingerprints
+from surveillance import scan_video_for_piracy
 
 SIMILARITY_THRESHOLD = 85.0
 
