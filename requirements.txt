@@ -1,5 +1,4 @@
-opencv-python
-streamlit
+opencv-python-headless
 imagehash
 numpy
 ultralytics
